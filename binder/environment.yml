@@ -1,0 +1,6 @@
+channels:
+- conda-forge
+dependencies:
+- python
+- pyiron
+- lammps=2021.02.10=*_4
