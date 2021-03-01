@@ -1,4 +1,4 @@
 ,Config,Filename,Model,Name,Species,Citations
 0,"['pair_style pace\n', 'pair_coeff * * df3_cut75_large_body_order.ace Cu\n']",['/home/jovyan/potentials/ace/df3_cut75_large_body_order.ace'],ACE,Cu-ace,['Cu'],{}
-0,"['pair_style quip\n', ""pair_coeff * * sw_example.xml 'IP SW' 14\n""]","['/home/jovyan/potentials/quip/sw_example.xml', '/home/jovyan/potentials/quip/data_sw']",QUIP,Si-quip-xml,['Si'],{}
+0,"['pair_style quip\n', 'pair_coeff * * sw_example.xml "IP SW" 14\n']","['/home/jovyan/potentials/quip/sw_example.xml', '/home/jovyan/potentials/quip/data_sw']",QUIP,Si-quip-xml,['Si'],{}
 0,"[""pair_style nnp dir './' showewsum 0\n"", 'pair_coeff * * 6.01\n']","['/home/jovyan/potentials/runner/input.nn', '/home/jovyan/potentials/runner/weights.029.data', '/home/jovyan/potentials/runner/scaling.data']",RuNNer,Cu-runner,['Cu'],{}
