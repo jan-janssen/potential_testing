@@ -1,0 +1,5 @@
+git clone https://github.com/pyiron/pyiron_atomistics.git
+cd pyiron_atomistics
+git checkout multiple_potential_location
+pip install .
+cd ..
